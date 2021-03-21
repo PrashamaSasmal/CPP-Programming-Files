@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     fstream file("abc.txt",ios::in|ios::out|ios::app);
-    //append mode is here for appened text to the file
+    //append mode is used here for appened text to the file
     if(!file.is_open())
     {
         cout<<"File creation failed.";
