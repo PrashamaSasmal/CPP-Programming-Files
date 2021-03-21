@@ -1,4 +1,4 @@
-//file position indicators for get operation(tellp,seekg)
+//file position indicators for get operation(tellg,seekg)
 #include<iostream>
 #include<fstream>
 using namespace std;
