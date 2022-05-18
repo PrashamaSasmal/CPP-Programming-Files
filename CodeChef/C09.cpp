@@ -23,5 +23,6 @@ int main() {
 	   cout<<count1<<" "<<count2<<endl;
 	   
 	}
-	return 0;
+	return 0;  
 }
+
